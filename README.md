@@ -5,11 +5,11 @@
 - 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220928-0939-.apk](https://liucn.lanzouv.com/i2Oos0cmg0ne)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220927-2104-takagen99.apk](https://liucn.lanzouv.com/iCKjo0cmg1vi)
+- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
 
 - 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
 
@@ -76,5 +76,5 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 `https://purge.jsdelivr.net/gh/`  
 
 ------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[box](https://raw.liucn.cc/box)，自用请勿宣传。
+### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
 
